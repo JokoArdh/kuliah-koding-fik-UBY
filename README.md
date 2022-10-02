@@ -1,4 +1,4 @@
-# 🖥️Kuliah-koding-FIK-UBY
+# 🖥️Kuliah-Koding-FIK-UBY
 Kumpulan materi perkuliahan fakultas ilmu komputer Universitas Boyolali, meliputi materi pemrograman dasar, oop dan basic mobile
 
 ### Repository ini membuka kontribusi bagi siapa saja mahasiswa teeknik informatika Universitas Boyolali
@@ -7,6 +7,18 @@ Kumpulan materi perkuliahan fakultas ilmu komputer Universitas Boyolali, meliput
 - Paham basic git & github / meempunyai akun github
 - Beri bintang pada repository ini ⭐
 - Mahasiswa Teknik Informatika Universitas Boyolali
+
+### Cara melaakukan Kontribusi
+## How to contribute
+ - Pertama fork repository ini dan sebelum form beri bbintang atau like repo ini.
+ - Lakukan cloning repo ini dengan perintah ```git clone <url>```.
+ - Setelah ini buat branch baru ```git checkout -b <branch-name>```.
+ - Lakukan penganguploadan file ke dalam repository dengan perintah```git add .``` or ```git add <filename>```.
+ - Lakukan commit pada repository  ```git commit -m <commit-msg>```.
+ - Setelah memberikan commit upload repository tersebut ```git push origin <branch-name>```.
+ - Buat pull and request dan tunggu pemilik repo melakukan marge commit anda.
+ - Semangat terus dan mari kontribusi
+
 
 ### 👨‍💻 Author
 >Joko Ardiyanto
