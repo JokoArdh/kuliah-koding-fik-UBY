@@ -9,7 +9,6 @@ Kumpulan materi perkuliahan fakultas ilmu komputer Universitas Boyolali, meliput
 - Mahasiswa Teknik Informatika Universitas Boyolali
 
 ### Cara melaakukan Kontribusi
-## How to contribute
  - Pertama fork repository ini dan sebelum form beri bbintang atau like repo ini.
  - Lakukan cloning repo ini dengan perintah ```git clone <url>```.
  - Setelah ini buat branch baru ```git checkout -b <branch-name>```.
