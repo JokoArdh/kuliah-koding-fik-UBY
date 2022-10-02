@@ -27,6 +27,6 @@ Kumpulan materi perkuliahan fakultas ilmu komputer Universitas Boyolali, meliput
   - Web https://jokoardiblog.wordpress.com
   
   ### 🔐 License
-Repository created 3 Maret 2022 by Joko Ardiyanto under *MIT License*
+Repository created  by Joko Ardiyanto under *MIT License*
   
   
